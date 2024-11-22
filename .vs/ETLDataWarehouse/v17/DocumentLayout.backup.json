@@ -1,0 +1,302 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Electiva\\ETLDataWarehouse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61ECCFD1-7E88-47B1-973A-83EAA5819031}|ETLDaraWarehouse\\ETLDaraWarehouse.csproj|c:\\electiva\\etldatawarehouse\\etldarawarehouse\\datacleaner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61ECCFD1-7E88-47B1-973A-83EAA5819031}|ETLDaraWarehouse\\ETLDaraWarehouse.csproj|solutionrelative:etldarawarehouse\\datacleaner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61ECCFD1-7E88-47B1-973A-83EAA5819031}|ETLDaraWarehouse\\ETLDaraWarehouse.csproj|c:\\electiva\\etldatawarehouse\\etldarawarehouse\\etlprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61ECCFD1-7E88-47B1-973A-83EAA5819031}|ETLDaraWarehouse\\ETLDaraWarehouse.csproj|solutionrelative:etldarawarehouse\\etlprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61ECCFD1-7E88-47B1-973A-83EAA5819031}|ETLDaraWarehouse\\ETLDaraWarehouse.csproj|c:\\electiva\\etldatawarehouse\\etldarawarehouse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61ECCFD1-7E88-47B1-973A-83EAA5819031}|ETLDaraWarehouse\\ETLDaraWarehouse.csproj|solutionrelative:etldarawarehouse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61ECCFD1-7E88-47B1-973A-83EAA5819031}|ETLDaraWarehouse\\ETLDaraWarehouse.csproj|c:\\electiva\\etldatawarehouse\\etldarawarehouse\\datawarehousecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61ECCFD1-7E88-47B1-973A-83EAA5819031}|ETLDaraWarehouse\\ETLDaraWarehouse.csproj|solutionrelative:etldarawarehouse\\datawarehousecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61ECCFD1-7E88-47B1-973A-83EAA5819031}|ETLDaraWarehouse\\ETLDaraWarehouse.csproj|c:\\electiva\\etldatawarehouse\\etldarawarehouse\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{61ECCFD1-7E88-47B1-973A-83EAA5819031}|ETLDaraWarehouse\\ETLDaraWarehouse.csproj|solutionrelative:etldarawarehouse\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61ECCFD1-7E88-47B1-973A-83EAA5819031}|ETLDaraWarehouse\\ETLDaraWarehouse.csproj|c:\\electiva\\etldatawarehouse\\etldarawarehouse\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61ECCFD1-7E88-47B1-973A-83EAA5819031}|ETLDaraWarehouse\\ETLDaraWarehouse.csproj|solutionrelative:etldarawarehouse\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61ECCFD1-7E88-47B1-973A-83EAA5819031}|ETLDaraWarehouse\\ETLDaraWarehouse.csproj|c:\\electiva\\etldatawarehouse\\etldarawarehouse\\entities\\dwh\\dimcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61ECCFD1-7E88-47B1-973A-83EAA5819031}|ETLDaraWarehouse\\ETLDaraWarehouse.csproj|solutionrelative:etldarawarehouse\\entities\\dwh\\dimcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61ECCFD1-7E88-47B1-973A-83EAA5819031}|ETLDaraWarehouse\\ETLDaraWarehouse.csproj|c:\\electiva\\etldatawarehouse\\etldarawarehouse\\entities\\north\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61ECCFD1-7E88-47B1-973A-83EAA5819031}|ETLDaraWarehouse\\ETLDaraWarehouse.csproj|solutionrelative:etldarawarehouse\\entities\\north\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61ECCFD1-7E88-47B1-973A-83EAA5819031}|ETLDaraWarehouse\\ETLDaraWarehouse.csproj|c:\\electiva\\etldatawarehouse\\etldarawarehouse\\entities\\dwh\\dimcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61ECCFD1-7E88-47B1-973A-83EAA5819031}|ETLDaraWarehouse\\ETLDaraWarehouse.csproj|solutionrelative:etldarawarehouse\\entities\\dwh\\dimcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61ECCFD1-7E88-47B1-973A-83EAA5819031}|ETLDaraWarehouse\\ETLDaraWarehouse.csproj|c:\\electiva\\etldatawarehouse\\etldarawarehouse\\etldarawarehouse.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{61ECCFD1-7E88-47B1-973A-83EAA5819031}|ETLDaraWarehouse\\ETLDaraWarehouse.csproj|solutionrelative:etldarawarehouse\\etldarawarehouse.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61ECCFD1-7E88-47B1-973A-83EAA5819031}|ETLDaraWarehouse\\ETLDaraWarehouse.csproj|c:\\electiva\\etldatawarehouse\\etldarawarehouse\\entities\\north\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61ECCFD1-7E88-47B1-973A-83EAA5819031}|ETLDaraWarehouse\\ETLDaraWarehouse.csproj|solutionrelative:etldarawarehouse\\entities\\north\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61ECCFD1-7E88-47B1-973A-83EAA5819031}|ETLDaraWarehouse\\ETLDaraWarehouse.csproj|c:\\electiva\\etldatawarehouse\\etldarawarehouse\\entities\\dwh\\dimproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61ECCFD1-7E88-47B1-973A-83EAA5819031}|ETLDaraWarehouse\\ETLDaraWarehouse.csproj|solutionrelative:etldarawarehouse\\entities\\dwh\\dimproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61ECCFD1-7E88-47B1-973A-83EAA5819031}|ETLDaraWarehouse\\ETLDaraWarehouse.csproj|c:\\electiva\\etldatawarehouse\\etldarawarehouse\\entities\\dwh\\dimshipper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61ECCFD1-7E88-47B1-973A-83EAA5819031}|ETLDaraWarehouse\\ETLDaraWarehouse.csproj|solutionrelative:etldarawarehouse\\entities\\dwh\\dimshipper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61ECCFD1-7E88-47B1-973A-83EAA5819031}|ETLDaraWarehouse\\ETLDaraWarehouse.csproj|c:\\electiva\\etldatawarehouse\\etldarawarehouse\\entities\\dwh\\dimemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61ECCFD1-7E88-47B1-973A-83EAA5819031}|ETLDaraWarehouse\\ETLDaraWarehouse.csproj|solutionrelative:etldarawarehouse\\entities\\dwh\\dimemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61ECCFD1-7E88-47B1-973A-83EAA5819031}|ETLDaraWarehouse\\ETLDaraWarehouse.csproj|c:\\electiva\\etldatawarehouse\\etldarawarehouse\\entities\\north\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61ECCFD1-7E88-47B1-973A-83EAA5819031}|ETLDaraWarehouse\\ETLDaraWarehouse.csproj|solutionrelative:etldarawarehouse\\entities\\north\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61ECCFD1-7E88-47B1-973A-83EAA5819031}|ETLDaraWarehouse\\ETLDaraWarehouse.csproj|c:\\electiva\\etldatawarehouse\\etldarawarehouse\\entities\\north\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61ECCFD1-7E88-47B1-973A-83EAA5819031}|ETLDaraWarehouse\\ETLDaraWarehouse.csproj|solutionrelative:etldarawarehouse\\entities\\north\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61ECCFD1-7E88-47B1-973A-83EAA5819031}|ETLDaraWarehouse\\ETLDaraWarehouse.csproj|c:\\electiva\\etldatawarehouse\\etldarawarehouse\\entities\\north\\shipper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61ECCFD1-7E88-47B1-973A-83EAA5819031}|ETLDaraWarehouse\\ETLDaraWarehouse.csproj|solutionrelative:etldarawarehouse\\entities\\north\\shipper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 185,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Electiva\\ETLDataWarehouse\\ETLDaraWarehouse\\Entities\\North\\Customer.cs",
+              "RelativeDocumentMoniker": "ETLDaraWarehouse\\Entities\\North\\Customer.cs",
+              "ToolTip": "C:\\Electiva\\ETLDataWarehouse\\ETLDaraWarehouse\\Entities\\North\\Customer.cs",
+              "RelativeToolTip": "ETLDaraWarehouse\\Entities\\North\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T20:07:22.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataWarehouseContext.cs",
+              "DocumentMoniker": "C:\\Electiva\\ETLDataWarehouse\\ETLDaraWarehouse\\DataWarehouseContext.cs",
+              "RelativeDocumentMoniker": "ETLDaraWarehouse\\DataWarehouseContext.cs",
+              "ToolTip": "C:\\Electiva\\ETLDataWarehouse\\ETLDaraWarehouse\\DataWarehouseContext.cs",
+              "RelativeToolTip": "ETLDaraWarehouse\\DataWarehouseContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwDMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T20:06:18.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NorthwindContext.cs",
+              "DocumentMoniker": "C:\\Electiva\\ETLDataWarehouse\\ETLDaraWarehouse\\NorthwindContext.cs",
+              "RelativeDocumentMoniker": "ETLDaraWarehouse\\NorthwindContext.cs",
+              "ToolTip": "C:\\Electiva\\ETLDataWarehouse\\ETLDaraWarehouse\\NorthwindContext.cs",
+              "RelativeToolTip": "ETLDaraWarehouse\\NorthwindContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T20:05:15.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ETLProcessor.cs",
+              "DocumentMoniker": "C:\\Electiva\\ETLDataWarehouse\\ETLDaraWarehouse\\ETLProcessor.cs",
+              "RelativeDocumentMoniker": "ETLDaraWarehouse\\ETLProcessor.cs",
+              "ToolTip": "C:\\Electiva\\ETLDataWarehouse\\ETLDaraWarehouse\\ETLProcessor.cs",
+              "RelativeToolTip": "ETLDaraWarehouse\\ETLProcessor.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAswBMAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T20:11:49.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DimProduct.cs",
+              "DocumentMoniker": "C:\\Electiva\\ETLDataWarehouse\\ETLDaraWarehouse\\Entities\\DWH\\DimProduct.cs",
+              "RelativeDocumentMoniker": "ETLDaraWarehouse\\Entities\\DWH\\DimProduct.cs",
+              "ToolTip": "C:\\Electiva\\ETLDataWarehouse\\ETLDaraWarehouse\\Entities\\DWH\\DimProduct.cs",
+              "RelativeToolTip": "ETLDaraWarehouse\\Entities\\DWH\\DimProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T20:10:51.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataCleaner.cs",
+              "DocumentMoniker": "C:\\Electiva\\ETLDataWarehouse\\ETLDaraWarehouse\\DataCleaner.cs",
+              "RelativeDocumentMoniker": "ETLDaraWarehouse\\DataCleaner.cs",
+              "ToolTip": "C:\\Electiva\\ETLDataWarehouse\\ETLDaraWarehouse\\DataCleaner.cs",
+              "RelativeToolTip": "ETLDaraWarehouse\\DataCleaner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T20:11:22.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Electiva\\ETLDataWarehouse\\ETLDaraWarehouse\\Program.cs",
+              "RelativeDocumentMoniker": "ETLDaraWarehouse\\Program.cs",
+              "ToolTip": "C:\\Electiva\\ETLDataWarehouse\\ETLDaraWarehouse\\Program.cs",
+              "RelativeToolTip": "ETLDaraWarehouse\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T20:01:54.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Electiva\\ETLDataWarehouse\\ETLDaraWarehouse\\appsettings.json",
+              "RelativeDocumentMoniker": "ETLDaraWarehouse\\appsettings.json",
+              "ToolTip": "C:\\Electiva\\ETLDataWarehouse\\ETLDaraWarehouse\\appsettings.json",
+              "RelativeToolTip": "ETLDaraWarehouse\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAACGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-19T20:22:44.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DimCustomer.cs",
+              "DocumentMoniker": "C:\\Electiva\\ETLDataWarehouse\\ETLDaraWarehouse\\Entities\\DWH\\DimCustomer.cs",
+              "RelativeDocumentMoniker": "ETLDaraWarehouse\\Entities\\DWH\\DimCustomer.cs",
+              "ToolTip": "C:\\Electiva\\ETLDataWarehouse\\ETLDaraWarehouse\\Entities\\DWH\\DimCustomer.cs",
+              "RelativeToolTip": "ETLDaraWarehouse\\Entities\\DWH\\DimCustomer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T20:34:57.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DimCategory.cs",
+              "DocumentMoniker": "C:\\Electiva\\ETLDataWarehouse\\ETLDaraWarehouse\\Entities\\DWH\\DimCategory.cs",
+              "RelativeDocumentMoniker": "ETLDaraWarehouse\\Entities\\DWH\\DimCategory.cs",
+              "ToolTip": "C:\\Electiva\\ETLDataWarehouse\\ETLDaraWarehouse\\Entities\\DWH\\DimCategory.cs",
+              "RelativeToolTip": "ETLDaraWarehouse\\Entities\\DWH\\DimCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T20:10:33.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DimShipper.cs",
+              "DocumentMoniker": "C:\\Electiva\\ETLDataWarehouse\\ETLDaraWarehouse\\Entities\\DWH\\DimShipper.cs",
+              "RelativeDocumentMoniker": "ETLDaraWarehouse\\Entities\\DWH\\DimShipper.cs",
+              "ToolTip": "C:\\Electiva\\ETLDataWarehouse\\ETLDaraWarehouse\\Entities\\DWH\\DimShipper.cs",
+              "RelativeToolTip": "ETLDaraWarehouse\\Entities\\DWH\\DimShipper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T20:10:17.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DimEmployee.cs",
+              "DocumentMoniker": "C:\\Electiva\\ETLDataWarehouse\\ETLDaraWarehouse\\Entities\\DWH\\DimEmployee.cs",
+              "RelativeDocumentMoniker": "ETLDaraWarehouse\\Entities\\DWH\\DimEmployee.cs",
+              "ToolTip": "C:\\Electiva\\ETLDataWarehouse\\ETLDaraWarehouse\\Entities\\DWH\\DimEmployee.cs",
+              "RelativeToolTip": "ETLDaraWarehouse\\Entities\\DWH\\DimEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T20:10:04.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Electiva\\ETLDataWarehouse\\ETLDaraWarehouse\\Entities\\North\\Product.cs",
+              "RelativeDocumentMoniker": "ETLDaraWarehouse\\Entities\\North\\Product.cs",
+              "ToolTip": "C:\\Electiva\\ETLDataWarehouse\\ETLDaraWarehouse\\Entities\\North\\Product.cs",
+              "RelativeToolTip": "ETLDaraWarehouse\\Entities\\North\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T20:09:26.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ETLDaraWarehouse.csproj",
+              "DocumentMoniker": "C:\\Electiva\\ETLDataWarehouse\\ETLDaraWarehouse\\ETLDaraWarehouse.csproj",
+              "RelativeDocumentMoniker": "ETLDaraWarehouse\\ETLDaraWarehouse.csproj",
+              "ToolTip": "C:\\Electiva\\ETLDataWarehouse\\ETLDaraWarehouse\\ETLDaraWarehouse.csproj",
+              "RelativeToolTip": "ETLDaraWarehouse\\ETLDaraWarehouse.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-19T20:18:18.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Electiva\\ETLDataWarehouse\\ETLDaraWarehouse\\Entities\\North\\Employee.cs",
+              "RelativeDocumentMoniker": "ETLDaraWarehouse\\Entities\\North\\Employee.cs",
+              "ToolTip": "C:\\Electiva\\ETLDataWarehouse\\ETLDaraWarehouse\\Entities\\North\\Employee.cs",
+              "RelativeToolTip": "ETLDaraWarehouse\\Entities\\North\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T20:08:33.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Electiva\\ETLDataWarehouse\\ETLDaraWarehouse\\Entities\\North\\Category.cs",
+              "RelativeDocumentMoniker": "ETLDaraWarehouse\\Entities\\North\\Category.cs",
+              "ToolTip": "C:\\Electiva\\ETLDataWarehouse\\ETLDaraWarehouse\\Entities\\North\\Category.cs",
+              "RelativeToolTip": "ETLDaraWarehouse\\Entities\\North\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T20:09:07.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Shipper.cs",
+              "DocumentMoniker": "C:\\Electiva\\ETLDataWarehouse\\ETLDaraWarehouse\\Entities\\North\\Shipper.cs",
+              "RelativeDocumentMoniker": "ETLDaraWarehouse\\Entities\\North\\Shipper.cs",
+              "ToolTip": "C:\\Electiva\\ETLDataWarehouse\\ETLDaraWarehouse\\Entities\\North\\Shipper.cs",
+              "RelativeToolTip": "ETLDaraWarehouse\\Entities\\North\\Shipper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T20:08:54.115Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
